@@ -1,7 +1,7 @@
 theme: minima
 # Astra-Fellowship-Application
 
-Hello Astra Team! Thank you for considering my fellowship applcation.
+Hello Astra Team! Thank you for considering my FELLOWSHIP applcation.
 
 Idle Brewery is my debut title as an independent game developer and nearly ready for release after 8 months of continuous work as a solo designer and programmer.
 
@@ -20,4 +20,4 @@ Most importantly, I hope you enjoy my game.
 # Download links to my game, Idle Brewery (currently in Beta).
 
 iOS: Public link to come (waiting on approval from Apple). 
-Android: https://play.google.com/apps/test/com.DefaultCompany.com.unity.template.mobile2D.idlebrewery/23
+Android: [Idle Brewery Beta (Google Play)](https://play.google.com/apps/test/com.DefaultCompany.com.unity.template.mobile2D.idlebrewery/23)
