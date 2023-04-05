@@ -1,6 +1,6 @@
 # Astra-Fellowship-Application
 
-Hello Astra Team! Thank you for considering my fellow applcation.
+Hello Astra Team! Thank you for considering my fellowship application.
 
 Idle Brewery is my first game and nearly ready for release after 8 months of continuous work as a solo designer and programmer.
 
