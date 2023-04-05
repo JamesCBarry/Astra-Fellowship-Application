@@ -2,17 +2,19 @@
 
 Hello Astra Team! Thank you for considering my fellowship application.
 
-Idle Brewery is my first game and nearly ready for release after 8 months of continuous work as a solo designer and programmer.
+This page is both my portfolio, and a link to my games, since I only have one: Idle Brewery!
 
-Though still early, this project has allowed invaluable opportunity for growth through iterative feedback, problem-solving complex challenges, and learning the realities of pushing a creative vision from concept to completion.
+While it’s still technically in beta, it’s nearly ready for release after just under a year of development (including 8-months of full time work as a solo designer and programmer).
 
-Key features include resource management, strategic decision making, progressing through incremental improvements, and emergent complexity and depth through player experimentation and offline progress.
+This project has given me an invaluable opportunity for growth through iterative playtest feedback and learning the realities of what it takes to push a creative vision from concept to completion.
 
-Future concepts aim to expand scope for futher storytelling, competitive multiplayer, and additional strategic mechanics.
+Key features include resource management, strategic decision making, progressing through incremental improvements, and complexity and depth through player experimentation and offline progress.
 
-Thank you again for your consideration and recognition of my passion, work, and dedication to this craft.
+Future concepts aim to expand scope for further storytelling, competitive multiplayer, and additional strategic mechanics.
 
-I look forward to (hopefully) speaking with you about the Fellowship at Astra.
+Thank you again for your consideration and recognition of my passion, work, and dedication to this craft. 
+
+I look forward to hopefully speaking with you about the Fellowship at Astra.
 
 Most importantly, I hope you enjoy the game.
 
