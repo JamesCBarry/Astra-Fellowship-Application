@@ -1,4 +1,3 @@
-theme: minima
 # Astra-Fellowship-Application
 
 Hello Astra Team! Thank you for considering my FELLOWSHIP applcation.
