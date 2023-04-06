@@ -18,7 +18,8 @@ I look forward to speaking with you about the fellowship at Astra.
 
 Most importantly, I hope you enjoy the game.
 
-Happy Brewing, 
+Happy Brewing,
+
 James
 
 # Download links to my game, Idle Brewery (currently in Beta).
