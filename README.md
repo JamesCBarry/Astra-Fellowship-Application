@@ -23,6 +23,6 @@ James
 
 # Download links to my game, Idle Brewery (currently in Beta).
 
-iOS: Public link to come (waiting on approval from Apple).
+iOS: [Idle Brewery Beta (Apple Store)](https://testflight.apple.com/join/NkVQXQ6Q)
 
 Android: [Idle Brewery Beta (Google Play)](https://play.google.com/apps/test/com.DefaultCompany.com.unity.template.mobile2D.idlebrewery/23)
