@@ -20,7 +20,7 @@ Happy Brewing,
 
 James
 
-# Download links to my game, Idle Brewery (currently in Beta).
+# Download links to my game, Idle Brewery.
 
 iOS: [Idle Brewery Beta (Apple Store)](https://apps.apple.com/us/app/idle-brewery-beer-tycoon/id1660298536)
 
