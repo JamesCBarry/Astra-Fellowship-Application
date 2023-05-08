@@ -22,6 +22,6 @@ James
 
 # Download links to my game, Idle Brewery.
 
-iOS: [Idle Brewery Beta (Apple Store)](https://apps.apple.com/us/app/idle-brewery-beer-tycoon/id1660298536)
+iOS: [Idle Brewery (Apple Store)](https://apps.apple.com/us/app/idle-brewery-beer-tycoon/id1660298536)
 
-Android: [Idle Brewery Beta (Google Play)](https://play.google.com/store/apps/details?id=com.DefaultCompany.com.unity.template.mobile2D.idlebrewery)
+Android: [Idle Brewery (Google Play)](https://play.google.com/store/apps/details?id=com.DefaultCompany.com.unity.template.mobile2D.idlebrewery)
